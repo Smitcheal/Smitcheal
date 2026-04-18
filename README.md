@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Okwaso A. Samuel
 
-I'm a Full-Stack & Mobile Developer and Product Designer with 4+ years of experience building modern, scalable applications. I enjoy turning complex problems into clean, efficient solutions using thoughtful design and solid architecture.
+I'm a Full-Stack & Mobile Developer and Product Designer with 5+ years of experience building modern, scalable applications. I enjoy turning complex problems into clean, efficient solutions using thoughtful design and solid architecture.
 
 ---
 
