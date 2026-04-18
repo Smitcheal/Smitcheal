@@ -1,72 +1,66 @@
-<h1 align="center"> Hello, I'm Okwaso A. Samuel</h1>
-
-<p align="center">
-Full-Stack & Mobile Developer • Product Designer • 5+ Years Experience
-</p>
-
----
+# Hello, I'm Okwaso A. Samuel
 
 I'm a Full-Stack & Mobile Developer and Product Designer with 5+ years of experience building modern, scalable applications. I enjoy turning complex problems into clean, efficient solutions using thoughtful design and solid architecture.
 
 ---
 
-##  Featured Projects
+## Featured Projects
 > Projects will be added soon...
 
 ---
 
-##  What I Do
+## What I Do
 
 **Product Design**  
-- Designing intuitive user experiences using Figma  
+- Designing intuitive user experiences using Figma
 
 **Frontend Engineering**  
 - Building responsive web apps using React.js, JavaScript, TypeScript  
-- Styling with Vanilla CSS, SCSS, and Tailwind CSS  
+- Styling with Vanilla CSS, SCSS, and Tailwind CSS
 
 **Backend Development**  
 - Building scalable APIs with Node.js, Python, and Golang  
-- Working with Appwrite for backend services  
+- Working with Appwrite for backend services
 
 **Mobile Development**  
-- Building cross-platform apps using React Native  
+- Building cross-platform apps using React Native
 
 **Architecture & System Design**  
-- Microfrontends, Modular Monoliths, Clean Architecture  
+- Microfrontends, Modular Monoliths, Clean Architecture
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
 **Languages:**  
-JavaScript | TypeScript | Python | Golang  
+JavaScript | TypeScript | Python | Golang
 
 **Backend Development:**  
-Node.js | Express.js | Appwrite | Python (FastAPI / Django) | Golang (Gin / Fiber)  
+Node.js | Express.js | Appwrite | Python (FastAPI / Django) | Golang (Gin / Fiber)
 
 **Frontend Development:**  
-React.js | Tailwind CSS | SCSS | Vanilla CSS  
+React.js | Tailwind CSS | SCSS | Vanilla CSS
 
 **Databases:**  
-MongoDB | PostgreSQL  
+MongoDB | PostgreSQL
 
 **Tools & Platforms:**  
-Git | Docker | AWS | GitHub Actions  
+Git | Docker | AWS | GitHub Actions
 
 ---
 
-##  Let's Connect
+## Let's Connect
 
-- Email: smitcheal431@gmail.com  
-- LinkedIn: https://linkedin.com/in/your-link  
-- WhatsApp: https://wa.me/qr/DM3YCNZMRTDGH1  
+Email: smitcheal431@gmail.com  
+LinkedIn: https://linkedin.com/in/your-link  
+WhatsApp: https://wa.me/qr/DM3YCNZMRTDGH1 
 
 ---
 
-##  Resume
+## Resume
 
-- [View CV (Web Version)](https://your-cv-site-link)  
-- [Download CV (PDF)](https://your-pdf-link)
+[View CV (Web Version)](https://your-cv-site-link)  
+[Download CV (PDF)](https://your-pdf-link)
 
 ---
 
