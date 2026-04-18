@@ -4,33 +4,33 @@ I'm a Full-Stack & Mobile Developer and Product Designer with 5+ years of experi
 
 ---
 
-## 🚀 Featured Projects
+##Featured Projects
 > Projects will be added soon...
 
 ---
 
-## 💼 What I Do
+##What I Do
 
-🎨 **Product Design**  
+**Product Design**  
 - Designing intuitive user experiences using Figma
 
-💻 **Frontend Engineering**  
+**Frontend Engineering**  
 - Building responsive web apps using React.js, JavaScript, TypeScript  
 - Styling with Vanilla CSS, SCSS, and Tailwind CSS
 
-🔧 **Backend Development**  
+**Backend Development**  
 - Building scalable APIs with Node.js, Python, and Golang  
 - Working with Appwrite for backend services
 
-📱 **Mobile Development**  
+**Mobile Development**  
 - Building cross-platform apps using React Native
 
-🧠 **Architecture & System Design**  
+**Architecture & System Design**  
 - Microfrontends, Modular Monoliths, Clean Architecture
 
 ---
 
-## 🛠 Tech Stack
+##Tech Stack
 
 **Languages:**  
 JavaScript | TypeScript | Python | Golang
@@ -49,18 +49,18 @@ Git | Docker | AWS | GitHub Actions
 
 ---
 
-## 🎯 Let's Connect
+##Let's Connect
 
-📫 Email: smitcheal431@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/your-link  
-💬 WhatsApp: https://wa.me/234XXXXXXXXXX  
+Email: smitcheal431@gmail.com  
+LinkedIn: https://linkedin.com/in/your-link  
+WhatsApp: https://wa.me/qr/DM3YCNZMRTDGH1 
 
 ---
 
-## 📄 Resume
+##Resume
 
-🌐 [View CV (Web Version)](https://your-cv-site-link)  
-📥 [Download CV (PDF)](https://your-pdf-link)
+[View CV (Web Version)](https://your-cv-site-link)  
+[Download CV (PDF)](https://your-pdf-link)
 
 ---
 
