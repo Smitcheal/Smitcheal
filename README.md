@@ -55,8 +55,12 @@ Git | Docker | AWS | GitHub Actions
 💼 LinkedIn: https://linkedin.com/in/your-link  
 💬 WhatsApp: https://wa.me/234XXXXXXXXXX  
 
-🌐 Portfolio CV: https://your-cv-site-link  
-📄 Download CV (PDF): https://your-pdf-link    
+---
+
+## 📄 Resume
+
+🌐 [View CV (Web Version)](https://your-cv-site-link)  
+📥 [Download CV (PDF)](https://your-pdf-link)
 
 ---
 
