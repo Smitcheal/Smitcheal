@@ -52,10 +52,11 @@ Git | Docker | AWS | GitHub Actions
 ## 🎯 Let's Connect
 
 📫 Email: smitcheal431@gmail.com  
-
 💼 LinkedIn: https://linkedin.com/in/your-link  
-
 💬 WhatsApp: https://wa.me/234XXXXXXXXXX  
+
+🌐 Portfolio CV: https://your-cv-site-link  
+📄 Download CV (PDF): https://your-pdf-link    
 
 ---
 
