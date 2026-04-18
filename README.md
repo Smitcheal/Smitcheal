@@ -19,7 +19,7 @@ I'm a Full-Stack & Mobile Developer and Product Designer with 4+ years of experi
 - Styling with Vanilla CSS, SCSS, and Tailwind CSS
 
 🔧 **Backend Development**  
-- Developing scalable APIs with Node.js, Python, and Golang  
+- Building scalable APIs with Node.js, Python, and Golang  
 - Working with Appwrite for backend services
 
 📱 **Mobile Development**  
@@ -35,11 +35,11 @@ I'm a Full-Stack & Mobile Developer and Product Designer with 4+ years of experi
 **Languages:**  
 JavaScript | TypeScript | Python | Golang
 
-**Frontend:**  
-React.js | Tailwind CSS | SCSS | Vanilla CSS
+**Backend Development:**  
+Node.js | Express.js | Appwrite | Python (FastAPI / Django) | Golang (Gin / Fiber)
 
-**Backend:**  
-Node.js | Express.js | Appwrite
+**Frontend Development:**  
+React.js | Tailwind CSS | SCSS | Vanilla CSS
 
 **Databases:**  
 MongoDB | PostgreSQL
