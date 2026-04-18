@@ -4,12 +4,12 @@ I'm a Full-Stack & Mobile Developer and Product Designer with 5+ years of experi
 
 ---
 
-##Featured Projects
+**Featured Projects**
 > Projects will be added soon...
 
 ---
 
-##What I Do
+**What I Do**
 
 **Product Design**  
 - Designing intuitive user experiences using Figma
@@ -30,7 +30,7 @@ I'm a Full-Stack & Mobile Developer and Product Designer with 5+ years of experi
 
 ---
 
-##Tech Stack
+**Tech Stack**
 
 **Languages:**  
 JavaScript | TypeScript | Python | Golang
@@ -49,7 +49,7 @@ Git | Docker | AWS | GitHub Actions
 
 ---
 
-##Let's Connect
+**Let's Connect**
 
 Email: smitcheal431@gmail.com  
 LinkedIn: https://linkedin.com/in/your-link  
@@ -57,7 +57,7 @@ WhatsApp: https://wa.me/qr/DM3YCNZMRTDGH1
 
 ---
 
-##Resume
+**Resume**
 
 [View CV (Web Version)](https://your-cv-site-link)  
 [Download CV (PDF)](https://your-pdf-link)
